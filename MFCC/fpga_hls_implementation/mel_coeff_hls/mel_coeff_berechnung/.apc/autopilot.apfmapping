@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="hamming_window.cpp" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\hamming_window.cpp"/>
+    <originFiles name="hamming_window.h" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\hamming_window.h"/>
+    <originFiles name="mel_coefficients.cpp" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\mel_coefficients.cpp"/>
+    <originFiles name="mel_coefficients.h" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\mel_coefficients.h"/>
+    <originFiles name="mel_filterbank_lut.cpp" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\mel_filterbank_lut.cpp"/>
+    <originFiles name="mel_filterbank_lut.h" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\mel_filterbank_lut.h"/>
+  </source>
+  <testbench>
+    <originFiles name="test_mel.cpp" path="C:\Users\moses\Documents\Hochschule\WiSe2425\EMBEDS\mel_coeff_hls\test_mel.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
